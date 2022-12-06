@@ -1,12 +1,3 @@
-
-## Acknowledgement
-
-The completion of this project could not have been possible without the participation and assistance of our respected professors and dear friends. Their contributions are sincerely appreciated and gratefully acknowledged. 
- However, our group would like to express their deep appreciation and indebtedness particularly to the following:
-Our mentor Mr.Sripati Mahapatra, Dean.Dr.Rudra Mohan Tripathy and all our faculties;  for their endless support, kindness and understanding spirit during our project preparation.
-To all my friends and others who in one way or another shared their support, either morally, financially and physically, thank you.
-Above all, to the Great Almighty, the author of knowledge and wisdom, for his countless love,
- We thank you.
 # Vlan Implementation using Packet tracer
 
 Use Case: 
