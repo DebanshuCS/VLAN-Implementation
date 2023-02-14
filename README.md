@@ -1,9 +1,11 @@
 # Vlan Implementation using Packet tracer
 
-![Untitled](https://user-images.githubusercontent.com/118846871/210236717-faf2fa8c-a877-4cae-8066-17df37a6d1e3.png)
-
 Use Case: 
 We are using our University Network structure to show the use case of VLAN and how scenario works when VLAN implemented.
+
+
+![Untitled](https://user-images.githubusercontent.com/118846871/210236717-faf2fa8c-a877-4cae-8066-17df37a6d1e3.png)
+
 
  Our University have the split of 4 VLAN'S consists of a Five locations,
 
